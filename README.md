@@ -1,4 +1,4 @@
-# RupaRupa_Bitlabs
+# CompanyX_Bitlabs
 ## 1. Case Overview
 To increase the number of conversions in the platform, ruparupa started to track user's activity to gain deeper insight into how users engage across web, mobile, and app.Now we can find what users do at specific points in their user journey, which page or feature they drop off on, and which customer completes the conversion across any type of device / location by identifying specific individuals and pair this with Activity data for each unique User. You will create SQL query for this analysis.
 ## 2. Dataset
