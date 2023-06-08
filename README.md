@@ -13,5 +13,6 @@ Calculate conversion rate by user's city
 ### c. [dropRate.sql](https://github.com/melsrasafebri123/CompanyX_Bitlabs/blob/main/dropRate.sql)
 Find which step of the customer journey has the highest drop rate (lowest conversion rate)
 ## 4. Visualization
+![Uploading SDAB-370_Melsra_Safebri_ICID_2 (1)_page-0001.jpg…]()
 ## 5. Summary
 # THANK YOU
