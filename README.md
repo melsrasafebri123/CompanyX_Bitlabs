@@ -17,5 +17,5 @@ Find which step of the customer journey has the highest drop rate (lowest conver
 ## 4. Visualization
 ![Viz_CompanyX](https://github.com/melsrasafebri123/CompanyX_Bitlabs/blob/main/Viz_Company%20X.jpg)
 ## 5. Summary
-
+By doing analysis, companies can find out the behavior of buyers from interest. Companies can also see the habits of application users from just visiting to buying.
 # THANK YOU
