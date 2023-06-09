@@ -1,4 +1,4 @@
-# CompanyX_Bitlabs
+# Customer Behaviour Analysis for E-commerce Conversion Improvement
 Bitlabs provides a dataset from company X for us to use for analysis.
 - Contributors : Melsra Safebri (Me)
 ## 1. Case Overview
